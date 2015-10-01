@@ -16,3 +16,13 @@ C:\Users\user\documents\visual studio 2010\Projects\SEPD\SEPD\bin\Debug\SEPD.pdb
 C:\Users\user\documents\visual studio 2010\Projects\SEPD\SEPD\obj\x86\Debug\SEPD.Properties.Resources.resources
 C:\Users\user\documents\visual studio 2010\Projects\SEPD\SEPD\obj\x86\Debug\SEPD.csproj.GenerateResource.Cache
 C:\Users\user\documents\visual studio 2010\Projects\SEPD\SEPD\obj\x86\Debug\SEPD.SEPD.resources
+C:\Users\Francis\Downloads\SEPD\SEPD\SEPD\obj\x86\Debug\Interop.MLApp.dll
+C:\Users\Francis\Downloads\SEPD\SEPD\SEPD\obj\x86\Debug\SEPD.csproj.ResolveComReference.cache
+C:\Users\Francis\Downloads\SEPD\SEPD\SEPD\obj\x86\Debug\SEPD.exe
+C:\Users\Francis\Downloads\SEPD\SEPD\SEPD\obj\x86\Debug\SEPD.pdb
+C:\Users\Francis\Downloads\SEPD\SEPD\SEPD\bin\Debug\SEPD.exe
+C:\Users\Francis\Downloads\SEPD\SEPD\SEPD\bin\Debug\SEPD.pdb
+C:\Users\Francis\Downloads\SEPD\SEPD\SEPD\obj\x86\Debug\SEPD.csprojResolveAssemblyReference.cache
+C:\Users\Francis\Downloads\SEPD\SEPD\SEPD\obj\x86\Debug\SEPD.SEPD.resources
+C:\Users\Francis\Downloads\SEPD\SEPD\SEPD\obj\x86\Debug\SEPD.Properties.Resources.resources
+C:\Users\Francis\Downloads\SEPD\SEPD\SEPD\obj\x86\Debug\SEPD.csproj.GenerateResource.Cache
