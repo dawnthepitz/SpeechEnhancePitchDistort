@@ -9,3 +9,7 @@ MATLAB 2013a or higher version of MATLAB(May not grant full functionality especi
 Configurations to make:
 Please copy/move all of the .m files in the MATLAB Folder
 Compile the C# App and have fun.
+
+Notes:
+C# Only contains Views and Controllers. No Digital Signal Process Happens on C#. Ever
+MATLAB Contains all Computations. All Plottings are also done in MATLAB
