@@ -1,0 +1,18 @@
+C:\Users\user\AppData\Local\Temporary Projects\SEPD\bin\Debug\SEPD.exe
+C:\Users\user\AppData\Local\Temporary Projects\SEPD\bin\Debug\SEPD.pdb
+C:\Users\user\AppData\Local\Temporary Projects\SEPD\obj\x86\Debug\Interop.MLApp.dll
+C:\Users\user\AppData\Local\Temporary Projects\SEPD\obj\x86\Debug\SEPD.csproj.ResolveComReference.cache
+C:\Users\user\AppData\Local\Temporary Projects\SEPD\obj\x86\Debug\SEPD.Form1.resources
+C:\Users\user\AppData\Local\Temporary Projects\SEPD\obj\x86\Debug\SEPD.Properties.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\SEPD\obj\x86\Debug\SEPD.csproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\SEPD\obj\x86\Debug\SEPD.exe
+C:\Users\user\AppData\Local\Temporary Projects\SEPD\obj\x86\Debug\SEPD.pdb
+C:\Users\user\documents\visual studio 2010\Projects\SEPD\SEPD\obj\x86\Debug\Interop.MLApp.dll
+C:\Users\user\documents\visual studio 2010\Projects\SEPD\SEPD\obj\x86\Debug\SEPD.csproj.ResolveComReference.cache
+C:\Users\user\documents\visual studio 2010\Projects\SEPD\SEPD\obj\x86\Debug\SEPD.exe
+C:\Users\user\documents\visual studio 2010\Projects\SEPD\SEPD\obj\x86\Debug\SEPD.pdb
+C:\Users\user\documents\visual studio 2010\Projects\SEPD\SEPD\bin\Debug\SEPD.exe
+C:\Users\user\documents\visual studio 2010\Projects\SEPD\SEPD\bin\Debug\SEPD.pdb
+C:\Users\user\documents\visual studio 2010\Projects\SEPD\SEPD\obj\x86\Debug\SEPD.Properties.Resources.resources
+C:\Users\user\documents\visual studio 2010\Projects\SEPD\SEPD\obj\x86\Debug\SEPD.csproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2010\Projects\SEPD\SEPD\obj\x86\Debug\SEPD.SEPD.resources
